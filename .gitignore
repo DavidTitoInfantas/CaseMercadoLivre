@@ -59,6 +59,7 @@ dmypy.json
 .env
 .venv
 env/
+venv_auto/
 venv/
 ENV/
 env.bak/
